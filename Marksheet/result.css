@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+}
+#logo{
+	margin-left: 330px;
+}
+body{
+	border: 10px double #005847;
+}
+#mark{
+	border-style: 1px solid #005847;
+}
+#heading{
+	background-color: #8ec640;
+	padding: 20px;
+	overflow: hidden;
+}
+#note{
+	width: 100%;
+	border: 1px solid #005847;
+	height: 50px;
+}
+#note h3{
+	color: red;
+}
+label{
+	font-family: halvita, cambria;
+	font-size: 18px;
+}
+#seat_no{
+	border-radius: 4px;
+	height: 40px;
+	font-size: 18px;
+	box-shadow: 1px 1px 1px 1px;
+}
+#submit{
+	color: #005847;
+	border-radius: 4px;
+	height: 40px;
+	font-size: 18px;
+	width: 120px;
+	background-color: white;
+	border: 2px solid #8ec640;
+}
+#submit:hover{
+	background-color: #005847;
+	cursor: pointer;
+	box-shadow: 0px 1px 1px 1px;
+	color: #8ec640;
+}
